@@ -1,0 +1,5 @@
+# Python 가상 환경 폴더 무시
+venv/
+
+# Python 바이트코드 캐시 폴더 무시
+__pycache__/
