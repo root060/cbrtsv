@@ -3,3 +3,6 @@ venv/
 
 # Python 바이트코드 캐시 폴더 무시
 __pycache__/
+
+# 개발 ENV 파일 무시
+.env
