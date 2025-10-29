@@ -6,3 +6,6 @@ __pycache__/
 
 # 개발 ENV 파일 무시
 .env
+
+# 개발용 파일 보관 폴더 무시
+server-dashboard-final/
